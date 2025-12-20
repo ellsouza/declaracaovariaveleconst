@@ -2,4 +2,4 @@ let pokemon = ["Pikachu" , "Charmander" , "Bulbassaur"]
 
 //.pop remove o último elemento
 pokemon.pop()
-console.log(pokemon[2])
+console.log(pokemon)
