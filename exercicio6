@@ -1,0 +1,5 @@
+let pokemon = ["Pikachu" , "Charmander" , "Bulbassaur"]
+
+//.shift remove o primeiro elemento
+pokemon.shift()
+console.log(pokemon)
