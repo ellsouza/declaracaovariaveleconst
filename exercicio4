@@ -1,0 +1,5 @@
+let pokemon = ["Pikachu" , "Charmander" , "Bulbassaur"]
+
+let indiceAleatorio = Math.floor (Math.random()*pokemon.length)
+
+console.log("Seu Pokemon é: " + pokemon[indiceAleatorio])
